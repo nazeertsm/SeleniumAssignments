@@ -44,13 +44,6 @@ public class CreateAccount {
 		driver.findElement(By.xpath("//input[@id='officeSiteName']")).sendKeys("velachery");
 		driver.findElement(By.xpath("//input[@class='smallSubmit']")).click();
 		driver.close();
-		
-		
-		
-		
-		
-		
-		
 				
 		
 	}
